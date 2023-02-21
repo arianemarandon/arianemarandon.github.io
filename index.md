@@ -3,11 +3,13 @@ I am a PhD student in statistics, since October 2020, at LPSM, Sorbonne Universi
 Research interests: statistical learning, multiple testing, unsupervised learning, graphs 
 
 ## Publications
-*False clustering rate control in mixture models.* With Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska.[preprint](https://arxiv.org/abs/2203.02597) 
+*False clustering rate control in mixture models.* With Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
 
-*Machine learning meets false discovery rate.* With Lihua Lei, David Mary and Etienne Roquain.[preprint](https://arxiv.org/abs/2208.06685) 
+*Machine learning meets false discovery rate.* With Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). In revision for *Annals of Statistics*. 
 
 ## Talks
+- March 9, [LARGR Workshop](https://statlearngraph23.sciencesconf.org/), *Lille* 
+- February 28, Workshop [ASCAI](https://sites.google.com/view/prci-ascai/accueil), *Munich*
 - September 29, [BASICS Workshop](https://sites.google.com/view/basics-workshop/about), *Sorbonne Université, Paris*
 - August 31, [12th MCP conference](https://www.mcp-conference.org/), *Bremen*
 - July 18, [3-day meeting of statisticians in Paris](https://sandal.uni.lu/international-statistics-days/), *IHP, Paris*
@@ -19,7 +21,7 @@ Research interests: statistical learning, multiple testing, unsupervised learnin
 - November 2020, [*Journées EcoNet*](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html), online
 
 ## Activities
-- Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/seminaires/gtt/index)
+- 2021-2022: Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/seminaires/gtt/index)
 
 ## Teaching
 
