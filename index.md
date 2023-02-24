@@ -10,14 +10,14 @@ Research interests: statistical learning, multiple testing, unsupervised learnin
 ## Talks
 - March 9, [LARGR Workshop](https://statlearngraph23.sciencesconf.org/), *Lille* 
 - February 28, Workshop [ASCAI](https://sites.google.com/view/prci-ascai/accueil), *Munich*
-- September 29, [BASICS Workshop](https://sites.google.com/view/basics-workshop/about), *Sorbonne Université, Paris*
-- August 31, [12th MCP conference](https://www.mcp-conference.org/), *Bremen*
-- July 18, [3-day meeting of statisticians in Paris](https://sandal.uni.lu/international-statistics-days/), *IHP, Paris*
-- June 28, [Mathematical Methods of Modern Statistics 3](https://conferences.cirm-math.fr/2554.html), *CIRM, Marseille*
-- June 20, [LPSM PhD students seminar](https://www.lpsm.paris/seminaires/gtt/index), *Sorbonne Université, Paris*
-- June 14, [JdS 22](https://jds22.sciencesconf.org/), *Lyon*
-- May 5, [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/), online
-- March 2, Workshop [SansSouci](https://www.math.univ-toulouse.fr/~pneuvial/sanssouci.html), *Toulouse*
+- September 2022, [BASICS Workshop](https://sites.google.com/view/basics-workshop/about), *Sorbonne Université, Paris*
+- August 2022, [12th MCP conference](https://www.mcp-conference.org/), *Bremen*
+- July 2022, [3-day meeting of statisticians in Paris](https://sandal.uni.lu/international-statistics-days/), *IHP, Paris*
+- June 2022, [Mathematical Methods of Modern Statistics 3](https://conferences.cirm-math.fr/2554.html), *CIRM, Marseille*
+- June 2022, [LPSM PhD students seminar](https://www.lpsm.paris/seminaires/gtt/index), *Sorbonne Université, Paris*
+- June 2022, [JdS 22](https://jds22.sciencesconf.org/), *Lyon*
+- May 2022, [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/), online
+- March 2022, Workshop [SansSouci](https://www.math.univ-toulouse.fr/~pneuvial/sanssouci.html), *Toulouse*
 - November 2020, [*Journées EcoNet*](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html), online
 
 ## Activities
