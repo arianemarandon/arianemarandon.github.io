@@ -1,6 +1,6 @@
-I am a PhD student in statistics, since October 2020, at LPSM, Sorbonne University, under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
+I am a PhD student in statistics, since October 2020, at Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
-Research interests: semi-supervised/unsupervised learning, multiple testing, graphs
+Research interests: semi-supervised/unsupervised learning, multiple testing, graphs, conformal prediction 
 
 ## Publications
 *False clustering rate control in mixture models.* With Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
