@@ -8,8 +8,9 @@ Research interests: semi-supervised/unsupervised learning, multiple testing, gra
 *Machine learning meets false discovery rate.* With Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). In revision for *Annals of Statistics*. 
 
 ## Talks
-- March 9 2023, [LARGR Workshop](https://statlearngraph23.sciencesconf.org/), *Lille* 
-- February 28 2023, [ASCAI](https://sites.google.com/view/prci-ascai/accueil) Workshop, *Munich*
+- May 2023, Invited discussion @  [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/) on the talk "Selection by Prediction with (Weighted) Conformal p-values" by Ying Jin 
+- March 2023, [LARGR Workshop](https://statlearngraph23.sciencesconf.org/), *Lille* 
+- February 2023, [ASCAI](https://sites.google.com/view/prci-ascai/accueil) Workshop, *Munich*
 - September 2022, [BASICS Workshop](https://sites.google.com/view/basics-workshop/about), *Sorbonne Université, Paris*
 - August 2022, [12th MCP conference](https://www.mcp-conference.org/), *Bremen*
 - July 2022, [3-day meeting of statisticians in Paris](https://sandal.uni.lu/international-statistics-days/), *IHP, Paris*
