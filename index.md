@@ -1,13 +1,17 @@
 I am a PhD student in statistics, since October 2020, at Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
-Research interests: semi-supervised/unsupervised learning, multiple testing, graphs, conformal prediction 
+Research interests: machine learning, multiple testing, graphs, conformal inference 
 
-## Publications
-*False clustering rate control in mixture models.* With Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
+## Research
+*False clustering rate control in mixture models.* Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
 
-*Machine learning meets false discovery rate.* With Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). In revision for *Annals of Statistics*. 
+*Machine learning meets false discovery rate.* Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). In revision for *Annals of Statistics*. 
+
+*Conformal link prediction to control the error rate.* Ariane Marandon. [preprint](https://arxiv.org/abs/2306.14693).
 
 ## Talks
+- July 2023, [JdS 23](https://jds2023.sciencesconf.org/), *Bruxelles* 
+- June 2023, Reading group on conformal inference @ Institut de Mathématiques d'Orsay, *Paris* 
 - May 2023, Invited discussion @  [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/) on the talk "Selection by Prediction with (Weighted) Conformal p-values" by Ying Jin 
 - March 2023, [LARGR Workshop](https://statlearngraph23.sciencesconf.org/), *Lille* 
 - February 2023, [ASCAI](https://sites.google.com/view/prci-ascai/accueil) Workshop, *Munich*
