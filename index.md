@@ -10,6 +10,7 @@ Research interests: machine learning, multiple testing, graphs, conformal infere
 *Conformal link prediction to control the error rate.* Ariane Marandon. [preprint](https://arxiv.org/abs/2306.14693).
 
 ## Talks
+- November 2023, [Workshop on Tests and Bandits](https://www.cvernade.com/workshop-tests-and-bandits-in-potsdam-2023), *Potsdam*
 - July 2023, [JdS 23](https://jds2023.sciencesconf.org/), *Bruxelles* 
 - June 2023, Reading group on conformal inference @ Institut de Mathématiques d'Orsay, *Paris* 
 - May 2023, Invited discussion @  [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/) on the talk "Selection by Prediction with (Weighted) Conformal p-values" by Ying Jin 
