@@ -1,16 +1,19 @@
-I am a PhD student in statistics, since October 2020, at Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
+I am a postdoc researcher at the Turing Institute in London, UK. I am working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
+Previously, I did my PhD at Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
 Research interests: machine learning, multiple testing, graphs, conformal inference 
 
 ## Research
-*False clustering rate control in mixture models.* Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
+*False membership rate control in mixture models.* Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
 
-*Machine learning meets false discovery rate.* Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). In revision for *Annals of Statistics*. 
+*Adaptive novelty detection with false discovery rate guarantee.* Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). *To appear in Annals of Statistics*. 
 
-*Conformal link prediction to control the error rate.* Ariane Marandon. [preprint](https://arxiv.org/abs/2306.14693).
+*Conformal link prediction with false discovery rate control.* Ariane Marandon. [preprint](https://arxiv.org/abs/2306.14693).
 
 ## Talks
 - November 2023, [Workshop on Tests and Bandits](https://www.cvernade.com/workshop-tests-and-bandits-in-potsdam-2023), *Potsdam*
+- November 2023, [Workshop Stat. learning and AI for the analysis of the intestinal microbiota](https://scai.sorbonne-universite.fr/public/events/view/6f5f4ec3d1e3ae491194/1), Sorbonne Université, *Paris*
+- October 2023, [Workshop FAST-BIG](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/), INRIA, *Paris*
 - July 2023, [JdS 23](https://jds2023.sciencesconf.org/), *Bruxelles* 
 - June 2023, Reading group on conformal inference @ Institut de Mathématiques d'Orsay, *Paris* 
 - May 2023, Invited discussion @  [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/) on the talk "Selection by Prediction with (Weighted) Conformal p-values" by Ying Jin 
@@ -36,4 +39,4 @@ Research interests: machine learning, multiple testing, graphs, conformal infere
 - Applied statistics, Polytech Sorbonne, fourth year, Materials (MTX) specialization (lectures and exercise classes)
 
 ---
-Contact me at ariane dot marandon-carlhian at sorbonne-universite dot fr
+Contact me at amarandon-carlhian at turing dot ac dot uk
