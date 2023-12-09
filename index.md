@@ -1,7 +1,7 @@
-I am a postdoc researcher at the Turing Institute in London, UK. I am working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
-Previously, I did my PhD at Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
+I am a postdoc research associate at the Turing Institute. I am working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
+Previously, I obtained my PhD from Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
-Research interests: machine learning, multiple testing, graphs, conformal inference 
+Research interests: selective inference, conformal inference, hypothesis testing, graphs  
 
 ## Research
 *False membership rate control in mixture models.* Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
