@@ -1,14 +1,16 @@
-I am a postdoc research associate at the Turing Institute. I am working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
+I am a postdoc research associate at the Turing Institute, working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
 Previously, I obtained my PhD from Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
 Research interests: selective inference, conformal inference, hypothesis testing, graphs  
 
 ## Research
-*False membership rate control in mixture models.* Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. [preprint](https://arxiv.org/abs/2203.02597).
+[False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
 
-*Adaptive novelty detection with false discovery rate guarantee.* Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. [preprint](https://arxiv.org/abs/2208.06685). *To appear in Annals of Statistics*. 
+[Adaptive novelty detection with false discovery rate guarantee](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Adaptive-novelty-detection-with-false-discovery-rate-guarantee/10.1214/23-AOS2338.short), Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. *Annals of Statistics*. 
 
-*Conformal link prediction with false discovery rate control.* Ariane Marandon. [preprint](https://arxiv.org/abs/2306.14693).
+[Conformal link prediction with false discovery rate control](https://arxiv.org/abs/2306.14693), Ariane Marandon. *To appear in TEST*. 
+
+[Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. 
 
 ## Talks
 - November 2023, [Workshop on Tests and Bandits](https://www.cvernade.com/workshop-tests-and-bandits-in-potsdam-2023), *Potsdam*
