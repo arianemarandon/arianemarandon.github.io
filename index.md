@@ -1,7 +1,7 @@
 I am a postdoc research associate at the Turing Institute, working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
 Previously, I obtained my PhD from Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
-Research interests: selective inference, conformal inference, hypothesis testing, graphs  
+Research interests: selective inference, conformal inference, multiple hypothesis testing
 
 ## Research
 [False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
