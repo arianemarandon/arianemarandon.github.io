@@ -4,15 +4,19 @@ Previously, I obtained my PhD from Sorbonne Université ([LPSM](https://www.lpsm
 Research interests: selective inference, conformal inference, multiple hypothesis testing
 
 ## Research
+
 [False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
 
 [Adaptive novelty detection with false discovery rate guarantee](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Adaptive-novelty-detection-with-false-discovery-rate-guarantee/10.1214/23-AOS2338.short), Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. *Annals of Statistics*. 
 
-[Conformal link prediction with false discovery rate control](https://arxiv.org/abs/2306.14693), Ariane Marandon. *To appear in TEST*. 
+[Conformal link prediction with false discovery rate control](https://link.springer.com/article/10.1007/s11749-024-00934-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240611&utm_content=10.1007%2Fs11749-024-00934-w), Ariane Marandon. *TEST*. 
+
+[FDR control and FDP bounds for conformal link prediction](https://arxiv.org/abs/2404.02542), Gilles Blanchard, Guillermo Durand, Ariane Marandon and Romain Périer. 
 
 [Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. 
 
 ## Talks
+- June 2024, [Workshop on heterogeneous and distributed data](https://warwick.ac.uk/fac/sci/statistics/news/heterogeneous_distributed_data/), Warwick University, *Coventry* 
 - November 2023, [Workshop on Tests and Bandits](https://www.cvernade.com/workshop-tests-and-bandits-in-potsdam-2023), *Potsdam*
 - November 2023, [Workshop Stat. learning and AI for the analysis of the intestinal microbiota](https://scai.sorbonne-universite.fr/public/events/view/6f5f4ec3d1e3ae491194/1), Sorbonne Université, *Paris*
 - October 2023, [Workshop FAST-BIG](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/), INRIA, *Paris*
