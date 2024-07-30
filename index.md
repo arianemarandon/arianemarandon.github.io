@@ -5,15 +5,15 @@ Research interests: selective inference, conformal inference, multiple hypothesi
 
 ## Research
 
-[False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
-
-[Adaptive novelty detection with false discovery rate guarantee](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Adaptive-novelty-detection-with-false-discovery-rate-guarantee/10.1214/23-AOS2338.short), Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. *Annals of Statistics*. 
-
-[Conformal link prediction with false discovery rate control](https://link.springer.com/article/10.1007/s11749-024-00934-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240611&utm_content=10.1007%2Fs11749-024-00934-w), Ariane Marandon. *TEST*. 
+[Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. 
 
 [FDR control and FDP bounds for conformal link prediction](https://arxiv.org/abs/2404.02542), Gilles Blanchard, Guillermo Durand, Ariane Marandon and Romain Périer. 
 
-[Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. 
+[Conformal link prediction with false discovery rate control](https://link.springer.com/article/10.1007/s11749-024-00934-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240611&utm_content=10.1007%2Fs11749-024-00934-w), Ariane Marandon. *TEST*. 
+
+[Adaptive novelty detection with false discovery rate guarantee](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Adaptive-novelty-detection-with-false-discovery-rate-guarantee/10.1214/23-AOS2338.short), Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. *Annals of Statistics*. 
+
+[False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
 
 ## Talks
 - June 2024, [Workshop on heterogeneous and distributed data](https://warwick.ac.uk/fac/sci/statistics/news/heterogeneous_distributed_data/), Warwick University, *Coventry* 
@@ -34,15 +34,6 @@ Research interests: selective inference, conformal inference, multiple hypothesi
 - May 2022, [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/), online
 - March 2022, [SansSouci](https://www.math.univ-toulouse.fr/~pneuvial/sanssouci.html) Workshop, *Toulouse*
 - November 2020, [*Journées EcoNet*](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html), online
-
-## Activities
-- 2021-2022: Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/seminaires/gtt/index)
-
-## Teaching
-
-### 2021-2023
-- Probability and statistics, Polytech Sorbonne, third year, Materials (MTX) specialization (lectures and exercise classes)
-- Applied statistics, Polytech Sorbonne, fourth year, Materials (MTX) specialization (lectures and exercise classes)
 
 ---
 Contact me at amarandon-carlhian at turing dot ac dot uk
