@@ -1,11 +1,11 @@
-I am a postdoc research associate at the Turing Institute, working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on conformal prediction. 
-Previously, I obtained my PhD from Sorbonne Université ([LPSM](https://www.lpsm.paris/index) unit), under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
+I am a postdoc research associate at the Turing Institute, working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on developing new statistical methods within conformal prediction that can be levelled for healthcare applications.
+Previously, I obtained my PhD from the [Laboratory of Statistics, Probability and Modélisation (LPSM)](https://www.lpsm.paris/index) @ Sorbonne Université, under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
 
 Research interests: selective inference, conformal inference, multiple hypothesis testing
 
 ## Research
 
-[Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. 
+[Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. *In revision at Journal of the Royal Statistical Society Series B*.  
 
 [FDR control and FDP bounds for conformal link prediction](https://arxiv.org/abs/2404.02542), Gilles Blanchard, Guillermo Durand, Ariane Marandon and Romain Périer. 
 
@@ -16,6 +16,8 @@ Research interests: selective inference, conformal inference, multiple hypothesi
 [False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
 
 ## Talks
+- November 2024, Computational Seminar @[immunai](https://www.immunai.com/)
+- September 2024, Centre for AI Seminar @AstraZeneca
 - June 2024, [Workshop on heterogeneous and distributed data](https://warwick.ac.uk/fac/sci/statistics/news/heterogeneous_distributed_data/), Warwick University, *Coventry* 
 - November 2023, [Workshop on Tests and Bandits](https://www.cvernade.com/workshop-tests-and-bandits-in-potsdam-2023), *Potsdam*
 - November 2023, [Workshop Stat. learning and AI for the analysis of the intestinal microbiota](https://scai.sorbonne-universite.fr/public/events/view/6f5f4ec3d1e3ae491194/1), Sorbonne Université, *Paris*
