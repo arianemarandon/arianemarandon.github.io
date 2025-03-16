@@ -1,21 +1,12 @@
 I am a postdoc research associate at the Turing Institute, working as part of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) on developing new statistical methods within conformal prediction that can be levelled for healthcare applications.
-Previously, I obtained my PhD from the [Laboratory of Statistics, Probability and Modélisation (LPSM)](https://www.lpsm.paris/index) @ Sorbonne Université, under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
-
-Research interests: selective inference, conformal inference, multiple hypothesis testing
+Previously, I obtained my PhD from the [Laboratory of Statistics, Probability and Modélisation (LPSM)](https://www.lpsm.paris/index) @ Sorbonne Université, under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home); focusing on controlling prediction error in various ML tasks, using tools from multiple testing. 
 
 ## Research
-
-[Selecting informative conformal prediction sets with false coverage rate control](https://arxiv.org/abs/2403.12295), Ulysse Gazin, Ruth Heller, Ariane Marandon and Etienne Roquain. *In revision at Journal of the Royal Statistical Society Series B*.  
-
-[FDR control and FDP bounds for conformal link prediction](https://arxiv.org/abs/2404.02542), Gilles Blanchard, Guillermo Durand, Ariane Marandon and Romain Périer. 
-
-[Conformal link prediction with false discovery rate control](https://link.springer.com/article/10.1007/s11749-024-00934-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240611&utm_content=10.1007%2Fs11749-024-00934-w), Ariane Marandon. *TEST*. 
-
-[Adaptive novelty detection with false discovery rate guarantee](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Adaptive-novelty-detection-with-false-discovery-rate-guarantee/10.1214/23-AOS2338.short), Ariane Marandon, Lihua Lei, David Mary and Etienne Roquain. *Annals of Statistics*. 
-
-[False selective rate control in mixture models](https://arxiv.org/abs/2203.02597), Ariane Marandon, Tabea Rebafka, Etienne Roquain and Nataliya Sokolovska. *In revision at Scandinavian Journal of Statistics*.  
+Full list: [Google scholar](https://scholar.google.com/citations?user=b8k7QnkAAAAJ&hl=en)
 
 ## Talks
+- February 2025, Statistics Seminar @Université Paris-Dauphine (CEREMADE unit), *Paris*
+- December 2024, [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/), online
 - November 2024, Computational Seminar @[immunai](https://www.immunai.com/)
 - September 2024, Centre for AI Seminar @AstraZeneca
 - June 2024, [Workshop on heterogeneous and distributed data](https://warwick.ac.uk/fac/sci/statistics/news/heterogeneous_distributed_data/), Warwick University, *Coventry* 
